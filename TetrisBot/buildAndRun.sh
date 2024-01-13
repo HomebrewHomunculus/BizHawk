@@ -6,7 +6,7 @@
 # Build
 export DOTNET_ROOT=$HOME/dotnet
 export PATH=$PATH:$HOME/dotnet
-dotnet build src/
+dotnet build src/TetrisBot.Tool
 
 
 # Run emulator with the tool

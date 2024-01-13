@@ -8,7 +8,7 @@ using BizHawk.Client.EmuHawk;
 //using BizHawk.Emulation.Common;
 
 
-namespace Net.MyStuff.TetrisBot
+namespace TetrisBot
 {
 	[ExternalTool("TetrisBot")]
 	public sealed class TetrisBotForm : ToolFormBase, IExternalToolForm
